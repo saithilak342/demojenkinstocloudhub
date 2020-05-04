@@ -10,7 +10,8 @@
 
 	<name>examplejenkins</name>
 
-   <properties>
+  
+    <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -42,7 +43,7 @@
           <workerType>Micro</workerType>
           <workers>1</workers> 
           <uri>https://anypoint.mulesoft.com</uri>; 
-          <applicationName>examplejenkins</applicationName>
+          <applicationName>jenkinsdemov1</applicationName>
         </cloudHubDeployment> 
       </configuration> 
       <executions> 
