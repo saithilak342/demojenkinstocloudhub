@@ -43,7 +43,7 @@
           <workerType>Micro</workerType>
           <workers>1</workers> 
           <uri>https://anypoint.mulesoft.com</uri>; 
-          <applicationName>jenkinsdemov1</applicationName>
+          <applicationName>examplejenkins</applicationName>
         </cloudHubDeployment> 
       </configuration> 
       <executions> 
